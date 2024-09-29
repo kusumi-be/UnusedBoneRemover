@@ -16,7 +16,7 @@ blender4.2で動作確認済みです。
 3. Remove unused boneボタンを押す  
 
 ## 参考
-[こちら](https://github.com/naoya-horai/ymg_bone_selector)のアドオンを参考にさせていただきました。  
+[ymg_bone_selector](https://github.com/naoya-horai/ymg_bone_selector)を参考にさせていただきました。  
 
 ## ライセンス
 GPL-3.0 Licence
